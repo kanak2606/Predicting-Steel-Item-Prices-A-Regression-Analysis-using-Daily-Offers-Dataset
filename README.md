@@ -1,5 +1,5 @@
 # Predicting steel item prices: a regression analysis using daily offers dataset
-The attached dataset “daily_offers.xlsx” is a representation of steel items offered to customers. Each row represents an item and has an offered/selling price of that item. You as the Data Scientist is tasked to analyze all the features, using statistical and visualization methods of your choice and prepare the data for a regression model. You should split the data into training and testing sets in the ratio of 90:10 respectively. Then, build regression models to predict the price of an item (at least 4 models). Finally, evaluate the best model using the metric r2 score on the testing set.
+The attached dataset “daily_offers.xlsx” is a representation of steel items offered to customers. Each row represents an item and has an offered/selling price of that item. I analyzed all the features, using statistical and visualization methods and prepare the data for a regression model. I split the data into training and testing sets in the ratio of 90:10 respectively. Then, build 4 regression models to predict the price of an item. Then, evaluate the best model using the metric r2 score on the testing set.
 
 ## Files included
 1. daily_offers.xlsx: The main dataset that contains steel items and their prices.
